@@ -58,3 +58,30 @@ h1 {
   font-weight: 600;
   margin: 2rem 0;
 }
+footer {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+footer p {
+  font-size: large;
+  text-align: center;
+}
+
+.footer-list {
+  margin: 1rem;
+}
+
+a,
+img,
+li {
+  display: inline;
+}
+
+img {
+  width: 40px;
+  padding: 0.2rem;
+}
